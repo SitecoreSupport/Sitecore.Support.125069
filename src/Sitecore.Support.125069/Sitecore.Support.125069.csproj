@@ -48,9 +48,11 @@
     </Reference>
     <Reference Include="Sitecore.EmailCampaign">
       <HintPath>..\..\lib\Sitecore.EmailCampaign.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Sitecore.EmailCampaign.ExperienceAnalytics, Version=5.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\EXM.Sitecore.EmailCampaign.ExperienceAnalytics.3.5.1\lib\Sitecore.EmailCampaign.ExperienceAnalytics.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\Sitecore.EmailCampaign.ExperienceAnalytics.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Sitecore.ExperienceAnalytics, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
