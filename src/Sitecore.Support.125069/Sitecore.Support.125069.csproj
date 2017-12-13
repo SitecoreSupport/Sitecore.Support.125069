@@ -46,6 +46,9 @@
       <HintPath>..\packages\SC.Sitecore.Analytics.8.2.6\lib\Sitecore.Analytics.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Sitecore.EmailCampaign">
+      <HintPath>..\..\lib\Sitecore.EmailCampaign.dll</HintPath>
+    </Reference>
     <Reference Include="Sitecore.EmailCampaign.ExperienceAnalytics, Version=5.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\EXM.Sitecore.EmailCampaign.ExperienceAnalytics.3.5.1\lib\Sitecore.EmailCampaign.ExperienceAnalytics.dll</HintPath>
       <Private>False</Private>
@@ -60,10 +63,6 @@
     </Reference>
     <Reference Include="Sitecore.Kernel">
       <HintPath>..\packages\SC.Sitecore.Kernel.8.2.6\lib\Sitecore.Kernel.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Sitecore.EmailCampaign">
-      <HintPath>..\packages\EXM.Sitecore.EmailCampaign.3.5.1\lib\Sitecore.EmailCampaign.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
